@@ -19,7 +19,7 @@ Whiskey Drop is a subscription service designed to deliver a new and exciting wh
 ## Features
 
 ### Navigation Bar
-- **Branding:** "Whiskey Drop" brand prominently displayed.
+- **Branding:** "Whiskey Drop" brand is prominently displayed.
 - **Navigation Links:** Links to Home, About, and a dropdown for different types of whiskeys (Irish, Scotch, Japanese, American).
 - **Responsive Design:** Adaptable for different screen sizes, including a collapsible menu for smaller screens.
 - **Sign In/Sign Up:** Quick access to authentication options.
@@ -47,7 +47,7 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/whiskey-drop.git
+    git clone https://github.com/arcadejk/whiskey-drop.git
     ```
 2. Navigate to the project directory:
     ```sh
